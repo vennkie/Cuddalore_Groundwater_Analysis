@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28189006/README.md)
 # 💧 AI-Enabled Data Science Framework for Groundwater Quality Monitoring and Health Hazard Forecasting
 
 **PRODUCT LINK:** [Live Demo](https://drive.google.com/file/d/1eXqHBE5Cw6MvTYNJZwCWQD_Zvpti5Yv_/view?usp=sharing)
