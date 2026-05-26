@@ -1,6 +1,6 @@
 # 💧 AI-Enabled Data Science Framework for Groundwater Quality Monitoring and Health Hazard Forecasting
 
-**PRODUCT LINK:** [Live Demo](https://drive.google.com/file/d/1eXqHBE5Cw6MvTYNJZwCWQD_Zvpti5Yv_/view?usp=sharing)
+**PRODUCT LINK:** (https://groundwateranalysis.pythonanywhere.com/)
 
 ---
 
